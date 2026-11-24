@@ -1,0 +1,10 @@
+{
+  "name": "eol-ledger-static",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend-free static demo of EoL Ledger: a frozen endoflife.date catalogue snapshot and the source project's fictional demo code repos.",
+  "scripts": {
+    "test": "node --test test/model.test.js",
+    "check:browser": "python3 test/browser_check.py"
+  }
+}

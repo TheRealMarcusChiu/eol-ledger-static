@@ -1,0 +1,15 @@
+{
+  "file": "data/catalogue-upstream.json",
+  "sourceUrl": "https://endoflife.date/api/v1/products/full",
+  "upstreamSchemaVersion": "1.2.1",
+  "upstreamGeneratedAt": "2026-11-24T07:54:44+00:00",
+  "fileSavedAtUtc": "2026-11-24T16:01:11Z",
+  "fileSavedAtNote": "Modification time of the downloaded file, in UTC; the response itself is kept byte for byte unmodified.",
+  "sha256": "703b5dbb4f45462f11641e0f1230e3e3fd6618f5332b5428038af961adadd11c",
+  "bytes": 3072333,
+  "products": 489,
+  "releaseCycles": 9476,
+  "dataLicence": "endoflife.date: MIT (github.com/endoflife-date/endoflife.date)",
+  "demoInventory": "data/demo-dependency-inventory.json",
+  "demoInventorySource": "eol-ledger src/main/resources/samples/demo-dependency-inventory.json at commit 167e7a9a143b2ee6652161593b4bb2b00017a6e2"
+}
